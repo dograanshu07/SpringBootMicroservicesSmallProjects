@@ -1,0 +1,1 @@
+This is a Small SPring boot and microservices project that is basically used to show how microservices work and how they interact with one another using centralized config server and also using git and spring cloud to have a naming server
